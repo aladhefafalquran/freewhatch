@@ -1,0 +1,62 @@
+{
+    "bookmarks": [
+        {
+            "id": "bookmark-1",
+            "name": "FaselHD",
+            "url": "https://www.faselhds.club/",
+            "category": "Search",
+            "dateAdded": "2025-01-01T00:00:00.000Z",
+            "visits": 0
+        },
+        {
+            "id": "bookmark-2",
+            "name": "قصة عشق",
+            "url": "https://eshaeq.com/",
+            "category": "Search",
+            "dateAdded": "2025-01-01T00:00:00.000Z",
+            "visits": 0
+        },
+        {
+            "id": "bookmark-3",
+            "name": "شاهد فور يو",
+            "url": "https://www.shahid4u.cam/",
+            "category": "Search",
+            "dateAdded": "2025-01-01T00:00:00.000Z",
+            "visits": 0
+        },
+        {
+            "id": "bookmark-4",
+            "name": "سيما فور يو",
+            "url": "https://cima4u.info/",
+            "category": "Search",
+            "dateAdded": "2025-01-01T00:00:00.000Z",
+            "visits": 0
+        },
+        {
+            "id": "bookmark-5",
+            "name": "egybest",
+            "url": "https://egybest.makeup/",
+            "category": "Search",
+            "dateAdded": "2025-01-01T00:00:00.000Z",
+            "visits": 0
+        },
+        {
+            "id": "bookmark-6",
+            "name": "YouTube",
+            "url": "https://www.youtube.com/",
+            "category": "Video",
+            "dateAdded": "2025-01-01T00:00:00.000Z",
+            "visits": 0
+        },
+        {
+            "id": "bookmark-8",
+            "name": "Google",
+            "url": "https://www.google.com/",
+            "category": "Search",
+            "dateAdded": "2025-01-01T00:00:00.000Z",
+            "visits": 0
+        }
+    ],
+    "exportDate": "2025-11-24T16:55:30.683Z",
+    "version": "1.0"
+}
